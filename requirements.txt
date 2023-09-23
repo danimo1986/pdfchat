@@ -6,3 +6,4 @@ langchain
 numpy
 faiss-cpu
 openai
+tiktoken
