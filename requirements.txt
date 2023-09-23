@@ -5,3 +5,4 @@ streamlit-extras
 langchain
 numpy
 faiss-cpu
+openai
