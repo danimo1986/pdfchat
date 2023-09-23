@@ -2,8 +2,9 @@ streamlit
 python-dotenv
 PyPDF2
 streamlit-extras
-langchain
+git+https://github.com/Laisky/langchain.git@c5505ed3
 numpy
 faiss-cpu
 openai
 tiktoken
+OPENAI_EMBEDDINGS_DEPLOYMENT
